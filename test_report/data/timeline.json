@@ -1,0 +1,147 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "wfr",
+    "children" : [ {
+      "name" : "14792-MainThread",
+      "children" : [ {
+        "name" : "登录-反向用例",
+        "uid" : "45b65c1922c8ef7f",
+        "parentUid" : "2f3862840fedba70561b5b8bd49f0481",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627361744835,
+          "stop" : 1627361748172,
+          "duration" : 3337
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-密码错误', 'username': '财友0r390j8p', 'password': '123456', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录-反向用例",
+        "uid" : "c1f9350dc9356056",
+        "parentUid" : "2f3862840fedba70561b5b8bd49f0481",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627361733009,
+          "stop" : 1627361736313,
+          "duration" : 3304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-用户名为空', 'username': '', 'password': 'ff970227', 'error_msg': '免费注册'}" ]
+      }, {
+        "name" : "登录-反向用例",
+        "uid" : "42568109c7bff084",
+        "parentUid" : "2f3862840fedba70561b5b8bd49f0481",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627361741011,
+          "stop" : 1627361744309,
+          "duration" : 3298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-密码为空', 'username': '财友0r390j8p', 'password': '', 'error_msg': '免费注册'}" ]
+      }, {
+        "name" : "登录-反向用例",
+        "uid" : "698f2c434a9bdde9",
+        "parentUid" : "2f3862840fedba70561b5b8bd49f0481",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627361736885,
+          "stop" : 1627361740227,
+          "duration" : 3342
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-用户名错误', 'username': '财友', 'password': 'ff970227', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录-正向用例",
+        "uid" : "22dd527a63947a36",
+        "parentUid" : "2f3862840fedba70561b5b8bd49f0481",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627361748798,
+          "stop" : 1627361755170,
+          "duration" : 6372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f3862840fedba70561b5b8bd49f0481"
+    }, {
+      "name" : "16448-MainThread",
+      "children" : [ {
+        "name" : "登录-反向用例",
+        "uid" : "2126546c1c3bebe4",
+        "parentUid" : "c93373fcfb96c159dfc3d0afde46d580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623308301765,
+          "stop" : 1623308305121,
+          "duration" : 3356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-密码错误', 'username': '财友0r390j8p', 'password': '123456', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录-正向用例",
+        "uid" : "a4532b94f13abefd",
+        "parentUid" : "c93373fcfb96c159dfc3d0afde46d580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623308305717,
+          "stop" : 1623308319686,
+          "duration" : 13969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录-反向用例",
+        "uid" : "b1aab8d1c5b83a5f",
+        "parentUid" : "c93373fcfb96c159dfc3d0afde46d580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623308290135,
+          "stop" : 1623308293442,
+          "duration" : 3307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-用户名为空', 'username': '', 'password': 'ff970227', 'error_msg': '免费注册'}" ]
+      }, {
+        "name" : "登录-反向用例",
+        "uid" : "ced8eccf35b97487",
+        "parentUid" : "c93373fcfb96c159dfc3d0afde46d580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623308293969,
+          "stop" : 1623308297307,
+          "duration" : 3338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-用户名错误', 'username': '财友', 'password': 'ff970227', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录-反向用例",
+        "uid" : "dd11823c9c608e5",
+        "parentUid" : "c93373fcfb96c159dfc3d0afde46d580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623308297764,
+          "stop" : 1623308301089,
+          "duration" : 3325
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '登录反向用例-密码为空', 'username': '财友0r390j8p', 'password': '', 'error_msg': '免费注册'}" ]
+      } ],
+      "uid" : "c93373fcfb96c159dfc3d0afde46d580"
+    } ],
+    "uid" : "3b24fadb2711aa62761df2c6334d17f5"
+  } ]
+}

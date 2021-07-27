@@ -1,0 +1,82 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "登录-反向用例",
+          "uid" : "c1f9350dc9356056",
+          "parentUid" : "ffc02a8df647df21acdd57e0c480b4f4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1627361733009,
+            "stop" : 1627361736313,
+            "duration" : 3304
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '登录反向用例-用户名为空', 'username': '', 'password': 'ff970227', 'error_msg': '免费注册'}" ]
+        }, {
+          "name" : "登录-反向用例",
+          "uid" : "698f2c434a9bdde9",
+          "parentUid" : "ffc02a8df647df21acdd57e0c480b4f4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1627361736885,
+            "stop" : 1627361740227,
+            "duration" : 3342
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '登录反向用例-用户名错误', 'username': '财友', 'password': 'ff970227', 'error_msg': '账号或密码错误'}" ]
+        }, {
+          "name" : "登录-反向用例",
+          "uid" : "42568109c7bff084",
+          "parentUid" : "ffc02a8df647df21acdd57e0c480b4f4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1627361741011,
+            "stop" : 1627361744309,
+            "duration" : 3298
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '登录反向用例-密码为空', 'username': '财友0r390j8p', 'password': '', 'error_msg': '免费注册'}" ]
+        }, {
+          "name" : "登录-反向用例",
+          "uid" : "45b65c1922c8ef7f",
+          "parentUid" : "ffc02a8df647df21acdd57e0c480b4f4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1627361744835,
+            "stop" : 1627361748172,
+            "duration" : 3337
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '登录反向用例-密码错误', 'username': '财友0r390j8p', 'password': '123456', 'error_msg': '账号或密码错误'}" ]
+        }, {
+          "name" : "登录-正向用例",
+          "uid" : "22dd527a63947a36",
+          "parentUid" : "ffc02a8df647df21acdd57e0c480b4f4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1627361748798,
+            "stop" : 1627361755170,
+            "duration" : 6372
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ffc02a8df647df21acdd57e0c480b4f4"
+      } ],
+      "uid" : "ab70c067fdfc04844e6dad4d931d9fae"
+    } ],
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
+  } ]
+}

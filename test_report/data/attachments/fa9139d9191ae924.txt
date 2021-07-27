@@ -1,0 +1,13 @@
+INFO     jrj_web_autotest_25:test_login.py:22 ----------开始执行正向用例测试------------
+INFO     jrj_web_autotest_25:base.py:19 开始查找页面元素：用户输入框
+INFO     jrj_web_autotest_25:base.py:22 找到页面元素: 用户输入框
+INFO     jrj_web_autotest_25:base.py:34 向页面元素：用户输入框发送了数据财友0r390j8p
+INFO     jrj_web_autotest_25:base.py:19 开始查找页面元素：密码输入框
+INFO     jrj_web_autotest_25:base.py:22 找到页面元素: 密码输入框
+INFO     jrj_web_autotest_25:base.py:34 向页面元素：密码输入框发送了数据ff970227
+INFO     jrj_web_autotest_25:base.py:19 开始查找页面元素：登录按钮
+INFO     jrj_web_autotest_25:base.py:22 找到页面元素: 登录按钮
+INFO     jrj_web_autotest_25:base.py:30 点击了页面元素：登录按钮
+INFO     jrj_web_autotest_25:base.py:19 开始查找页面元素：用户名
+INFO     jrj_web_autotest_25:base.py:22 找到页面元素: 用户名
+INFO     jrj_web_autotest_25:base.py:38 获取页面元素文本内容：用户名
